@@ -6,3 +6,7 @@ services:
   sotos:
     build: ./Sotos
     container_name: Sotos
+
+  Javier:
+    build: ./Javier
+    container_name: Javier
